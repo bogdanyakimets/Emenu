@@ -38,4 +38,6 @@ justify-content: center;
    .menu-item:hover {
      color:rgb(75, 36, 4);
   }
-   
+   .foto {
+   margin-left: 400px;
+   }
