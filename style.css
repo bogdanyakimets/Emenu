@@ -41,3 +41,8 @@ justify-content: center;
    .foto {
    margin-left: 400px;
    }
+
+   .contacts {
+    display: flex;
+    justify-content: center;
+   }
