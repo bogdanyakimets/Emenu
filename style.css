@@ -13,6 +13,7 @@
 .logo {
 display: flex;
 justify-content: center;
+background-color: white;
 }
 
 .menu {
@@ -55,13 +56,10 @@ justify-content: center;
 .menures {
   display: flex;
   justify-content: center;
-  background-color: rgb(219, 211, 177);
+
 }
 
-.menures1 {
-  display: flex;
-  justify-content: end;
-}
+  
 
 .res {
   margin: 50px;
