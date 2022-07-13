@@ -56,11 +56,13 @@ background-color: white;
 .menures {
   display: flex;
   justify-content: center;
+
   
 }
 
 .res {
   margin: 50px;
+  margin-top: -85%;
 }
 
 .price {
@@ -68,10 +70,15 @@ background-color: white;
 }
 
 .list {
-  color:black;
   
+
 }
 .list-item {
   color: violet;
+
+}
+
+.res1 {
+  margin: 50px;
 
 }
