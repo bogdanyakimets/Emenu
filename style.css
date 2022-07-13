@@ -39,7 +39,7 @@ justify-content: center;
      color:rgb(75, 36, 4);
   }
    .foto {
-   margin-left: 400px;
+    margin-left: 450px;
    }
 
    .contacts {
@@ -52,3 +52,21 @@ justify-content: center;
     justify-content: center;
    }
 
+.menures {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(219, 211, 177);
+}
+
+.menures1 {
+  display: flex;
+  justify-content: end;
+}
+
+.res {
+  margin: 50px;
+}
+
+.price {
+  color:green;
+}
